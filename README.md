@@ -1,2 +1,1 @@
-# IntroducaoJS
-Introdução ao JS
+Introdução ao JavaScript básico
